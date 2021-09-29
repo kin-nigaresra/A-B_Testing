@@ -1,5 +1,5 @@
 # A/B_Testing
-A/B Testing and Hypothesis 
+# A/B Testing and Hypothesis 
 Facebook recently made an offer called maximum bidding.
 A new bid type, average bidding, as an alternative to the bidding type introduced.
 In this study we want to test this new feature.
